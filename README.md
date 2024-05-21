@@ -28,10 +28,13 @@ With the harsh employment climate in Kenya, more Kenyans are seeking for jobs ab
 ## Results
 * Salary distribution
 <img width="663" alt="image" src="https://github.com/ruth-karimi/Data-Science-Salaries-Prediction/assets/24277899/a37df610-6284-42b5-abfc-58f1e417ead2">
+
 * Salary vs work year and Salary vs remote ratio
 <img width="924" alt="image" src="https://github.com/ruth-karimi/Data-Science-Salaries-Prediction/assets/24277899/a7ecb7ff-577f-4af4-a64b-eae992e3ef7d">
+
 * Salary vs company type and Salary vs Employment Type
   <img width="912" alt="image" src="https://github.com/ruth-karimi/Data-Science-Salaries-Prediction/assets/24277899/c791c4d6-3d10-4e17-8416-d06e5dbe4379">
+  
 * Logistic Regression Model Results
   <img width="609" alt="image" src="https://github.com/ruth-karimi/Data-Science-Salaries-Prediction/assets/24277899/06e4cbc9-4120-44b2-a7d3-3094c581f548">
 
