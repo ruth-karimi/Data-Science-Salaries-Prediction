@@ -26,16 +26,21 @@ With the harsh employment climate in Kenya, more Kenyans are seeking for jobs ab
 * Model Valuation & Improvement : Classification Report, Cross-Validation, Hyperparameter Tuning
    
 ## Results
+
 * Salary distribution
+  
 <img width="663" alt="image" src="https://github.com/ruth-karimi/Data-Science-Salaries-Prediction/assets/24277899/a37df610-6284-42b5-abfc-58f1e417ead2">
 
 * Salary vs work year and Salary vs remote ratio
+  
 <img width="924" alt="image" src="https://github.com/ruth-karimi/Data-Science-Salaries-Prediction/assets/24277899/a7ecb7ff-577f-4af4-a64b-eae992e3ef7d">
 
 * Salary vs company type and Salary vs Employment Type
+  
   <img width="912" alt="image" src="https://github.com/ruth-karimi/Data-Science-Salaries-Prediction/assets/24277899/c791c4d6-3d10-4e17-8416-d06e5dbe4379">
   
 * Logistic Regression Model Results
+  
   <img width="609" alt="image" src="https://github.com/ruth-karimi/Data-Science-Salaries-Prediction/assets/24277899/06e4cbc9-4120-44b2-a7d3-3094c581f548">
 
 ## Conclusions
@@ -61,7 +66,7 @@ With the harsh employment climate in Kenya, more Kenyans are seeking for jobs ab
 ## Links to project resources
 * Presentation - 
 * Code - 
-* Data Source - 
+* Data Source - https://ai-jobs.net/salaries/form/
 
 ## Repository Structure
 <img width="332" alt="image" src="https://github.com/ruth-karimi/Real-Estate-Renovations/assets/24277899/f59c8eb3-42e1-472c-a6d0-25912326997e">
